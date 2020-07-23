@@ -20,5 +20,5 @@ mod = num1 % num2
 end
 
 def square_root(num)
-sqr= 1
+sqr= math.sqrt(num)
 end
